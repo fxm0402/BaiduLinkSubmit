@@ -2,11 +2,11 @@
 Typecho 后台发布或更新文章时，文章链接将会自动推送到百度收录平台。
 ---
 
-插件发布页：https://xiangming.site/680.html
+插件发布页：https://xiangming.site/710.html
 
 作者：湘铭呀！
 
-作者网站：https://xiangming.site/710.html
+作者网站：https://xiangming.site
 
 最新版本: 1.0.0
 
